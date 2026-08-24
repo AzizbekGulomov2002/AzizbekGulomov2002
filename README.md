@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AzizbekGulomov2002">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Header%20Hey!%20I'm%20Aziz%20%F0%9F%91%8B" alt="Header Hey! I&#39;m Aziz 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Header%20Hey!%20I'm%20Aziz%20%F0%9F%91%8B" alt="I&#39;m Aziz 👋" />
   </a>
 </p>
 
@@ -78,12 +78,6 @@ I enjoy turning complex problems into practical products and continuously learni
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizbekGulomov2002&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
