@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/AzizbekGulomov2002">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Header%20Hey!%20I'm%20Aziz%20%F0%9F%91%8B" alt="I&#39;m Aziz 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hey!%20I'm%20Aziz%20%F0%9F%91%8B" alt="I&#39;m Aziz 👋" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=AI%20Engineer%20%E2%80%A2%20Backend%20Developer;Headline%202%20Building%20AI%20systems%2C%20startups%20%26%20real-world%20products%20%F0%9F%9A%80" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=AI%20Engineer%20%E2%80%A2%20Backend%20Developer;Building%20AI%20systems%2C%20startups%20%26%20real-world%20products%20%F0%9F%9A%80" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
