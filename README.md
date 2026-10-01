@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-I'm an AI Engineer and Backend Developer focused on building intelligent, scalable software.  
-🎓 MSc AI for Science &amp; Technology @ Milano 🇮🇹    
+I'm an AI and Software engineer focused on building intelligent, scalable systems.  
+🎓 MSc Artificial intelligent for Science &amp; Technology @ Milano, Italy 🇮🇹    
 💻 Python • Django • FastAPI • PostgreSQL • Docker    
 🤖 LLMs • RAG • Computer vision • Machine Learning    
 ⚙️ Backend Architecture • APIs • Distributed Systems  
